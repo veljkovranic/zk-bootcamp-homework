@@ -11,7 +11,7 @@ Answer: \
  a) $4 + 4 = 8 = 1 (\mod 7)$ \
  b) $3 * 5 = 15 = 1 (\mod 7)$ \
  c) From Fermat's Little Theorem
-  $ a ^ {-1} = a ^ {p-2} (\mod 7) $, so for $ a = 3 $, it is \
+  $a ^ {-1} = a ^ {p-2} (\mod 7)$, so for $ a = 3 $, it is \
 $3 ^ {-1} = 3 ^ {7 - 2} = 3 ^ {5} = 5 (\mod 7)$.
   Also, we can verify the result from b) with this answer. \
 
@@ -20,9 +20,9 @@ $3 ^ {-1} = 3 ^ {7 - 2} = 3 ^ {5} = 5 (\mod 7)$.
 Answer: \
 Assuming that '+' represent addition over modulo 7 we can, otherwise we cannot as we don't even have closure (for example, $ 3 + 6 = 9$ and $3, 6 \in S$ while $9 \notin S$). \
 
-3. What is -13 mod 5 ? \
+3. What is -13 mod 5? \
 Answer: \
-$ -13 = -8 = -3 = 2 (\mod 5)$
+$-13 = -8 = -3 = 2 (\mod 5)$
 
 4. Polynomials: \
  For the polynomial $x^3 − x^2 + 4x − 12$ \
